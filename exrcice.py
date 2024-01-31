@@ -6,4 +6,7 @@ print("Vous avez choisir",nb)
 
 
 
+for i in range(11):
+    print(nb * i)
+
 
